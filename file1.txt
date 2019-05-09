@@ -1,3 +1,6 @@
 Texto de exemplo
 
-Texto de exemplo da master
+Text de exemplo da master
+
+Edição do arquivo na aula dia 08/05/2019
+
